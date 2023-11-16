@@ -1,7 +1,9 @@
 ### Hi there 👋
 [![](https://visitcount.itsvg.in/api?id=toninofox&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Antonio<sub style="font-size: 15px; font-style: italic">, a teach lead and engineering manager.</sub><br> [![LinkedIn](https://img.shields.io/badge/Antonio%20La%20Gamma-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-la-gamma) 
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Antonio<sub style="font-size: 15px; font-style: italic">, a Tech lead and engineering manager.</sub> 
+
+[![LinkedIn](https://img.shields.io/badge/Antonio%20La%20Gamma-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-la-gamma) 
 
 ⚡Full Stack engineer Leading and managing teams of cross-functional engineers.<br>
 
