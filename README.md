@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Antonio%20La%20Gamma-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-la-gamma) 
 
-⚡Full Stack engineer Leading and managing teams of cross-functional engineers.<br>
+⚡Full Stack Staff Software Engineer Leading and managing teams of cross-functional engineers.<br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
@@ -39,3 +39,4 @@
 
 - ## Cloud Platform
     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
